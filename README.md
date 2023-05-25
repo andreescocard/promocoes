@@ -2,7 +2,7 @@
 
 ## Motivation
 
-This repository is designed to scrape data from supermarkets in Campos dos Goytacazes and display images with promotions on blocks. This will help users to make the best decisions when buying and will make them save money.
+This repository is designed to scrape data from supermarkets in Campos dos Goytacazes and display images with promotions on a dashboard. This will help users to make the best decisions when buying and will make them save money.
 
 ## Technologies used in this project
 
