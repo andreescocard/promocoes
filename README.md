@@ -21,8 +21,8 @@ This repository is designed to scrape data from supermarkets in Campos dos Goyta
 
 4 - Chromedriver file should be inside scraping folder
 
-5 - Download composer
+5 - Download and install node
 
-6 - Run ``composer install`` in root directory to install lightgallery
+6 - Run ``npm i`` in root directory to install lightgallery
 
 
